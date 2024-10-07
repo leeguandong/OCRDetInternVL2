@@ -1,0 +1,6 @@
+model_name_or_path: "/home/lgd/common/ComfyUI/models/LLM/qwen/Qwen2-VL-7B-Instruct/"
+adapter_name_or_path: /home/lgd/e_commerce_lmm/LLaMA-Factory-0.9.0/saves/qwen2_vl-7b/lora/sft
+template: qwen2_vl
+finetuning_type: lora
+#listen: true
+#port: 11247

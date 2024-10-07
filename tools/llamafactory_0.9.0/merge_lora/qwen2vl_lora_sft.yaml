@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: "/home/lgd/common/ComfyUI/models/LLM/qwen/Qwen2-VL-7B-Instruct/"
+adapter_name_or_path: /home/lgd/e_commerce_lmm/LLaMA-Factory-0.9.0/saves/qwen2_vl-7b/lora/sft
+template: qwen2_vl
+finetuning_type: lora
+
+### export
+export_dir: /home/lgd/e_commerce_lmm/results/qwen2_vl_lora_sft
+export_size: 2
+export_device: cpu
+export_legacy_format: false
