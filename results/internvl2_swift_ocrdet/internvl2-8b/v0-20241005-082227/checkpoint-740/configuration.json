@@ -1,0 +1,13 @@
+{
+    "framework": "Pytorch",
+    "task": "visual-question-answering",
+    "adapter_cfg": {
+        "model_id_or_path": "/home/lgd/common/ComfyUI/models/LLM/opengvlab/internvl2-8b",
+        "model_revision": "master",
+        "sft_type": "lora",
+        "tuner_backend": "peft",
+        "template_type": "internvl2",
+        "dtype": "bf16",
+        "system": "你是由上海人工智能实验室联合商汤科技开发的书生多模态大模型，英文名叫InternVL, 是一个有用无害的人工智能助手。"
+    }
+}
