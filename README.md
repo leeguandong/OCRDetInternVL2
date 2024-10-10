@@ -84,7 +84,7 @@ CUDA_VISIBLE_DEVICES=7 swift infer \
   <summary>硬件资源</summary>
   <p>* 实验在A800 (4X, 80GB)上进行</p>
 </details>
-- （1）准备[ocr数据](./data/OCR_Det/test/Annotations/)和[ocr图像](./data/OCR_Det/test/Images/);
+- （1）准备[ocr数据](./data/OCR_Det/test/Annotations/)和[ocr图像](./data/OCR_Det/test/Images/);     
 - （2）开始训练：
 
 ```bash
