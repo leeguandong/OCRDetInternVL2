@@ -1,6 +1,6 @@
 ## OCRDetInternVL2
 
-OCR Large Multi-model Model，基于Internvl2微调OCR文字检测的多模态大模型，在4张A800上基于internvl2-8b模型微调。不仅在ocr文字检测任务上，在大多数的目标检测任务也是work的。非常详细的介绍在博客中：https://blog.csdn.net/u012193416/article/details/142714091
+OCR Large Multi-model Model，基于Internvl2微调OCR文字检测的多模态大模型，在4张A800上基于internvl2-8b模型微调。不仅在ocr文字检测任务上，在大多数的目标检测任务也是work的。非常详细的介绍在博客中：https://blog.csdn.net/u012193416/article/details/142740809
 
  <p align="center">
       <a href='https://github.com/leeguandong/OCRDetInternVL2'>
